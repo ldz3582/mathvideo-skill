@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "project": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/projection_theorem",
+  "quality": "h",
+  "voiced": true,
+  "output": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/projection_theorem/projection_theorem_final_voiced.mp4",
+  "duration_sec": 154.44,
+  "size_mb": 7.27,
+  "scenes": [
+    {
+      "scene": "Scene01Setup",
+      "render_seconds": 19.65,
+      "video": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/projection_theorem/media/videos/scene_01_setup/1080p60/Scene01Setup.mp4"
+    },
+    {
+      "scene": "Scene02AcSimilar",
+      "render_seconds": 26.32,
+      "video": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/projection_theorem/media/videos/scene_02_ac_similar/1080p60/Scene02AcSimilar.mp4"
+    },
+    {
+      "scene": "Scene03Height",
+      "render_seconds": 32.89,
+      "video": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/projection_theorem/media/videos/scene_03_height/1080p60/Scene03Height.mp4"
+    },
+    {
+      "scene": "Scene04Projection",
+      "render_seconds": 32.16,
+      "video": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/projection_theorem/media/videos/scene_04_projection/1080p60/Scene04Projection.mp4"
+    },
+    {
+      "scene": "Scene05Example",
+      "render_seconds": 23.26,
+      "video": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/projection_theorem/media/videos/scene_05_example/1080p60/Scene05Example.mp4"
+    }
+  ],
+  "voice_tracks": 24,
+  "voice_error": null,
+  "tts_failures": [],
+  "tts_stats": {
+    "cache": 0,
+    "synth": 24,
+    "estimate": 0,
+    "failed": 0
+  }
+}

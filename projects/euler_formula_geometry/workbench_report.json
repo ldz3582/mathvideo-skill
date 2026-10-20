@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "project": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/euler_formula_geometry",
+  "quality": "h",
+  "voiced": true,
+  "output": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/euler_formula_geometry/euler_formula_geometry_final_voiced.mp4",
+  "duration_sec": 51.46,
+  "size_mb": 2.45,
+  "scenes": [
+    {
+      "scene": "Scene01Rotation",
+      "render_seconds": 84.08,
+      "video": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/euler_formula_geometry/media/videos/scene_01_rotation/1080p60/Scene01Rotation.mp4"
+    },
+    {
+      "scene": "Scene02Identity",
+      "render_seconds": 54.5,
+      "video": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/euler_formula_geometry/media/videos/scene_02_identity/1080p60/Scene02Identity.mp4"
+    }
+  ],
+  "voice_tracks": 8,
+  "voice_error": null,
+  "tts_failures": [],
+  "tts_stats": {
+    "cache": 0,
+    "synth": 8,
+    "estimate": 0,
+    "failed": 0
+  }
+}

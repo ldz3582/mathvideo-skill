@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "project": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/circle_area",
+  "quality": "h",
+  "voiced": true,
+  "output": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/circle_area/circle_area_final_voiced.mp4",
+  "duration_sec": 69.09,
+  "size_mb": 3.98,
+  "scenes": [
+    {
+      "scene": "Scene01Unroll",
+      "render_seconds": 26.7,
+      "video": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/circle_area/media/videos/scene_01_unroll/1080p60/Scene01Unroll.mp4"
+    },
+    {
+      "scene": "Scene02Formula",
+      "render_seconds": 47.91,
+      "video": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/circle_area/media/videos/scene_02_formula/1080p60/Scene02Formula.mp4"
+    }
+  ],
+  "voice_tracks": 22,
+  "voice_error": null,
+  "tts_failures": []
+}

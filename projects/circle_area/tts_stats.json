@@ -1,0 +1,11 @@
+{"kind": "cache", "text": "一个半径为 r 的圆，它的面积，究竟藏在哪里？", "detail": ""}
+{"kind": "cache", "text": "把它切成无数个极细的同心圆环。", "detail": ""}
+{"kind": "cache", "text": "每一圈被拉直之后，都是一条细长的直条，越靠外越长。", "detail": ""}
+{"kind": "cache", "text": "把它们由短到长堆叠起来，恰好拼成一个直角三角形。", "detail": ""}
+{"kind": "cache", "text": "底就是圆的周长二派 r，高就是圆的半径 r。", "detail": ""}
+{"kind": "cache", "text": "刚才那个直角三角形，和圆拥有完全相同的面积。", "detail": ""}
+{"kind": "cache", "text": "三角形的面积公式是：二分之一，乘以底，再乘以高。", "detail": ""}
+{"kind": "cache", "text": "在这里，底就是最外圈拉直后的长度二派 r，高就是圆的半径 r。", "detail": ""}
+{"kind": "cache", "text": "约掉一个 r，二分之一乘以二等于一，于是只剩下派乘以 r 的平方。", "detail": ""}
+{"kind": "cache", "text": "所以，圆的面积，就是派乘以半径的平方。", "detail": ""}
+{"kind": "cache", "text": "半径为 r 的圆，面积就是派 r 的平方。", "detail": ""}

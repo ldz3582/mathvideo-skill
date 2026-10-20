@@ -1,0 +1,48 @@
+{"kind": "synth", "text": "先画一个直角三角形，直角在顶点 C，斜边是 A B。", "detail": ""}
+{"kind": "synth", "text": "从直角顶点 C 向斜边作一条垂线，垂足记作 D。", "detail": ""}
+{"kind": "synth", "text": "这条高 C D，把斜边分成了 A D 和 D B 两段，它们之间有什么关系？", "detail": ""}
+{"kind": "synth", "text": "先看三角形 A C D，它和三角形 A B C 有什么关系？", "detail": ""}
+{"kind": "synth", "text": "角 A 是公共角，角 A D C 与角 A C B 都是直角。", "detail": ""}
+{"kind": "synth", "text": "两角对应相等，所以三角形 A C D 与三角形 A B C 相似。", "detail": ""}
+{"kind": "synth", "text": "对应边成比例：A C 比 A B 等于 A D 比 A C。", "detail": ""}
+{"kind": "synth", "text": "交叉相乘，得到 A C 的平方等于 A D 乘以 A B。", "detail": ""}
+{"kind": "synth", "text": "同样地，右边的三角形 C B D 也与大三角形 A B C 相似。", "detail": ""}
+{"kind": "synth", "text": "于是 B C 的平方等于 B D 乘以 A B。", "detail": ""}
+{"kind": "synth", "text": "再把两个小三角形单独拿出来，它们也互相相似。", "detail": ""}
+{"kind": "synth", "text": "对应边成比例：C D 比 B D 等于 A D 比 C D。", "detail": ""}
+{"kind": "synth", "text": "交叉相乘，斜边上的高的平方，等于两段射影的乘积。", "detail": ""}
+{"kind": "synth", "text": "三式集齐：直角边的平方等于它的射影乘以斜边；高的平方等于两段射影之积。", "detail": ""}
+{"kind": "synth", "text": "为什么叫射影？想象光垂直照下来，直角边 A C 会在斜边上留下影子。", "detail": ""}
+{"kind": "synth", "text": "这一段影子 A D，就叫做 A C 在斜边上的射影。", "detail": ""}
+{"kind": "synth", "text": "同样，直角边 B C 的影子是 B D。", "detail": ""}
+{"kind": "synth", "text": "所以，直角边的平方，等于它的射影乘以整条斜边。", "detail": ""}
+{"kind": "synth", "text": "两式相加，再用上 A D 加 D B 等于 A B，就还原出了勾股定理。", "detail": ""}
+{"kind": "synth", "text": "射影定理，其实就是勾股定理的上游。", "detail": ""}
+{"kind": "synth", "text": "来一道题：斜边上的高把斜边分成 二 和 八，求这条高。", "detail": ""}
+{"kind": "synth", "text": "直接用高的公式：C D 的平方等于 二 乘 八，等于 十六。", "detail": ""}
+{"kind": "synth", "text": "所以这条高等于 四。", "detail": ""}
+{"kind": "synth", "text": "顺便验算：两条直角边的平方和是 二十 加 八十，正好等于 十 的平方。", "detail": ""}
+{"kind": "cache", "text": "先画一个直角三角形，直角在顶点 C，斜边是 A B。", "detail": ""}
+{"kind": "cache", "text": "从直角顶点 C 向斜边作一条垂线，垂足记作 D。", "detail": ""}
+{"kind": "cache", "text": "这条高 C D，把斜边分成了 A D 和 D B 两段，它们之间有什么关系？", "detail": ""}
+{"kind": "cache", "text": "先看三角形 A C D，它和三角形 A B C 有什么关系？", "detail": ""}
+{"kind": "cache", "text": "角 A 是公共角，角 A D C 与角 A C B 都是直角。", "detail": ""}
+{"kind": "cache", "text": "两角对应相等，所以三角形 A C D 与三角形 A B C 相似。", "detail": ""}
+{"kind": "cache", "text": "对应边成比例：A C 比 A B 等于 A D 比 A C。", "detail": ""}
+{"kind": "cache", "text": "交叉相乘，得到 A C 的平方等于 A D 乘以 A B。", "detail": ""}
+{"kind": "cache", "text": "同样地，右边的三角形 C B D 也与大三角形 A B C 相似。", "detail": ""}
+{"kind": "cache", "text": "于是 B C 的平方等于 B D 乘以 A B。", "detail": ""}
+{"kind": "cache", "text": "再把两个小三角形单独拿出来，它们也互相相似。", "detail": ""}
+{"kind": "cache", "text": "对应边成比例：C D 比 B D 等于 A D 比 C D。", "detail": ""}
+{"kind": "cache", "text": "交叉相乘，斜边上的高的平方，等于两段射影的乘积。", "detail": ""}
+{"kind": "cache", "text": "三式集齐：直角边的平方等于它的射影乘以斜边；高的平方等于两段射影之积。", "detail": ""}
+{"kind": "cache", "text": "为什么叫射影？想象光垂直照下来，直角边 A C 会在斜边上留下影子。", "detail": ""}
+{"kind": "cache", "text": "这一段影子 A D，就叫做 A C 在斜边上的射影。", "detail": ""}
+{"kind": "cache", "text": "同样，直角边 B C 的影子是 B D。", "detail": ""}
+{"kind": "cache", "text": "所以，直角边的平方，等于它的射影乘以整条斜边。", "detail": ""}
+{"kind": "cache", "text": "两式相加，再用上 A D 加 D B 等于 A B，就还原出了勾股定理。", "detail": ""}
+{"kind": "cache", "text": "射影定理，其实就是勾股定理的上游。", "detail": ""}
+{"kind": "cache", "text": "来一道题：斜边上的高把斜边分成 二 和 八，求这条高。", "detail": ""}
+{"kind": "cache", "text": "直接用高的公式：C D 的平方等于 二 乘 八，等于 十六。", "detail": ""}
+{"kind": "cache", "text": "所以这条高等于 四。", "detail": ""}
+{"kind": "cache", "text": "顺便验算：两条直角边的平方和是 二十 加 八十，正好等于 十 的平方。", "detail": ""}

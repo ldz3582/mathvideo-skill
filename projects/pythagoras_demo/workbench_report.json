@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "project": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/pythagoras_demo",
+  "quality": "h",
+  "voiced": true,
+  "output": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/pythagoras_demo/pythagoras_demo_final_voiced.mp4",
+  "duration_sec": 74.29,
+  "size_mb": 3.2,
+  "scenes": [
+    {
+      "scene": "Scene01Assemble",
+      "render_seconds": 42.02,
+      "video": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/pythagoras_demo/media/videos/scene_01_assemble/1080p60/Scene01Assemble.mp4"
+    },
+    {
+      "scene": "Scene02Rearrange",
+      "render_seconds": 59.75,
+      "video": "/Users/liyuhan/Downloads/coderworks/gptwork/Mathvideo-skill/projects/pythagoras_demo/media/videos/scene_02_rearrange/1080p60/Scene02Rearrange.mp4"
+    }
+  ],
+  "voice_tracks": 9,
+  "voice_error": null,
+  "tts_failures": []
+}

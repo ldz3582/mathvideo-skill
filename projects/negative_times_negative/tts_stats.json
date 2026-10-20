@@ -1,0 +1,18 @@
+{"kind": "cache", "text": "先从最朴素的一件事说起：数轴上的乘法，其实就是把一支箭头拉长。", "detail": ""}
+{"kind": "cache", "text": "从原点出发的这支箭头，长度是一，代表一个单位。", "detail": ""}
+{"kind": "cache", "text": "把它乘二，箭头伸到二；再乘三，一直伸到六。", "detail": ""}
+{"kind": "cache", "text": "你看，从头到尾方向一点没变。正数乘法，只改变长度。", "detail": ""}
+{"kind": "cache", "text": "那负号呢？给这支箭头乘负一试试。", "detail": ""}
+{"kind": "cache", "text": "乘负一，就是让它绕原点原地转身一百八十度，从正方向翻到负方向。", "detail": ""}
+{"kind": "cache", "text": "再乘一次负一，又要转身一百八十度。", "detail": ""}
+{"kind": "cache", "text": "两次翻转，方向原封不动地回来了。所以负一乘负一，等于正一。", "detail": ""}
+{"kind": "cache", "text": "换个更具体的角度。数轴上的负二，可以看成向左退两步。", "detail": ""}
+{"kind": "cache", "text": "现在把它乘以负三。负三，就是三乘以负一。", "detail": ""}
+{"kind": "cache", "text": "先乘三：长度变成三倍，向左退六步。", "detail": ""}
+{"kind": "cache", "text": "再乘负一：整个位移原地反转方向，向左六步，变成向右六步。", "detail": ""}
+{"kind": "cache", "text": "于是负三乘负二，等于正六。两个负号，又一次互相抵消。", "detail": ""}
+{"kind": "cache", "text": "把刚才的两步写成一般式：负 a 乘负 b。", "detail": ""}
+{"kind": "cache", "text": "负 a 就是负一乘 a，负 b 就是负一乘 b。", "detail": ""}
+{"kind": "cache", "text": "把两个负一挑出来，先算它们。", "detail": ""}
+{"kind": "cache", "text": "两个负一，就是两次翻转。翻一次改变方向，翻两次回到原样。", "detail": ""}
+{"kind": "cache", "text": "所以负负得正，从来不是一条硬性规定，而是翻转两次的必然结果。", "detail": ""}
